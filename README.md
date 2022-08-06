@@ -1,36 +1,20 @@
-# fakenews-detection
+# Fake News Detection and Domain Verifier
 
-### Pre-requisite
+**This project helps in detecting fake news as well as verifies trusted domains from where the news originated** \
+Application URL: [https://24hrchallenge.virajman3.repl.co](https://24hrchallenge.virajman3.repl.co) 
 
-The app requires python3 to be installed in the machine as the programming language used is Python
+## **Output Screenshots:**
 
-### Quickstart guide
+![OnPaste 20220806-165919](https://user-images.githubusercontent.com/62030782/183247502-8ca76958-f3fe-4eed-982d-1b982b8e1e52.png) 
 
-Refer kits from the link below to jumpstart the app
+![OnPaste 20220806-165840](https://user-images.githubusercontent.com/62030782/183247503-c30af4ee-704e-47ec-8ecb-2d80d61b93c5.png) 
 
-https://kandi.openweaver.com/collections/starterkits/spotting-fake-news
+![OnPaste 20220806-170043](https://user-images.githubusercontent.com/62030782/183247504-b93ba2a8-0ba4-4090-b14c-9dd1ef4822cf.png) 
 
-### Installation Guide
+![OnPaste 20220806-170019](https://user-images.githubusercontent.com/62030782/183247507-2b5bc973-a0a1-4da1-b0a4-3b22eab43481.png) 
 
-Once the python is installed, install all the dependencies by running the below command.
+![OnPaste 20220806-165952](https://user-images.githubusercontent.com/62030782/183247509-43f08f30-1fb2-49d0-bbb7-1690c5fc8975.png) 
 
-pip3 install -r requirements.txt
 
-### Steps to be followed
+### **Note: Everything used in this project is openly available on the internet. For copyright or any other problems please raise an issue to this repository or contact me through the URL: https://forms.gle/RGSDpbGmGvDYAbTu9**
 
-FakeNews dectection experiment involves the following steps.
-
-  1. Select a development environment of your choice
-  2. Explore and analyse the dataset - Refer the file fakedata.csv
-  3. Cleanse and preprocess the data
-  4. Configure a train-test split
-  5. Train an ML algorithm with the Training data 
-  6. Evaluate the trained model
-  7. Various models can be used for analysing the best fit.
-  8. Predict on the test data
-  9. Evaluate the predictions on the test data
-
-### Build your own Fake News Detector
-
-1. Run Jupyter notebook **'FakeNewsDetection-starter.ipynb'** for starter solution on FakeNewsDetection data
-2. Run Jupyter notebook **'FakeNewsDetection-analysis.ipynb'** for detailed analysis on FakeNewsDetection data
